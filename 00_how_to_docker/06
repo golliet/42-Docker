@@ -1,0 +1,1 @@
+docker run --name overlord --restart=always -dp $(docker-machine ip Char):5000:80 nginx
