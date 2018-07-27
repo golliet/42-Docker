@@ -1,0 +1,2 @@
+# Il faut changer le token par celui que donne la question d'avant
+docker swarm join --token SWMTKN-1-3acve78kriwmd1684uhlnz8a40vt4zppzw55hbrskxd8rp0hbg-ek58ohccnvwv79l7ga4wij76q 192.168.99.100:2377
